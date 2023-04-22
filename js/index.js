@@ -29,7 +29,7 @@ Hcut.addEventListener('click', () => {
     document.querySelector('.h-leftBar').style.left = `-23rem`;
 })
 const getdata = async () => {
-    const response = await fetch('/js/songs.json');
+    const response = await fetch('./js/songs.json');
     // console.log(response);
     const data = await response.json()
     showdata(data.CardBox);
