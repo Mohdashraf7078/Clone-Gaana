@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download Letest MP3 Songs Online:Gaana.com
+    </title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="shortcut icon" href="images/gaana.png" type="image/x-icon">
+</head>
+
+<body>
+    <header>
+        <div class="head">
+            <div class="search">
+                <i id="humbargur" class="burgur fa-solid fa-bars"></i>
+                <div class="gana">
+                    <img src="images/gaana.png" alt="">
+                    <span>gaana</span>
+                </div>
+                <div class="h-leng">
+                    Hind,Eng...
+                </div>
+                <div class="searchBar">
+                    <input type="text" id="text" placeholder="Search Artists, Songs, Albums">
+                    <i class="rela fa-solid fa-magnifying-glass"></i>
+                </div>
+            </div>
+            <div class="sign">
+                <i class="fa-solid fa-sun-bright"></i>
+                <h5>Log In/sign Up</h5>
+            </div>
+        </div>
+    </header>
+    <div class="h-leftBar">
+        <div class="h-sighBar">
+            <h3>Log In / Sign Up</h3>
+            <i id="h-cut" class="fa-sharp fa-solid fa-xmark"></i>
+        </div>
+        <h4>Home</h4>
+        <li>Tranding Songs</li>
+        <li>New Songs</li>
+        <li>New Songs</li>
+        <li>Old Songs</li>
+        <li>Mood & Genres</li>
+        <li>Album</li>
+        <li>Radio</li>
+        <li>Podcast</li>
+        <li>My Music</li>
+    </div>
+    <nav>
+        <ul class="navbar">
+            <li>All</li>
+            <li>Tranding Songs</li>
+            <li>New Songs</li>
+            <li>Old Songs</li>
+            <li>Mood & Genres</li>
+            <li>Album</li>
+            <li>Radio</li>
+            <li>Podcast</li>
+            <li>My Music</li>
+        </ul>
+    </nav>
+    <div class="section1">
+        <div class="inner-section">
+            <div class="inner-section2">
+                <div class="s-img"><img src="images/f1.webp" alt=""></div>
+                <div class="s-img"><img src="images/f2.webp" alt=""></div>
+                <div class="s-img"><img src="images/f3.webp" alt=""></div>
+                <div class="s-img"><img src="images/f9.webp" alt=""></div>
+                <div class="s-img"><img src="images/f5.webp" alt=""></div>
+                <div class="s-img"><img src="images/f6.webp" alt=""></div>
+                <div class="s-img"><img src="images/f10.webp" alt=""></div>
+                <div class="s-img"><img src="images/f7.webp" alt=""></div>
+                <div class="s-img"><img src="images/f8.webp" alt=""></div>
+                <div class="s-img"><img src="images/f4.webp" alt=""></div>
+            </div>
+        </div>
+        <i id="sec-left" onclick="slidePrev()" class="fas fa-angle-left"></i>
+        <i id="sec-right" onclick="slideNext()" class="fas fa-angle-right"></i>
+    </div>
+    <div class="section">
+        <!-- <div class="charlist">
+            <div class="g-head">
+                <h2>Top Trending</h2>
+                <a href="#">See All</a>
+            </div>
+            <div class="g-fut">
+                <div class="g-futt">
+                    <div class="g-box">
+                        <img src="images/1.jpg" alt="">
+                        <span class="play-icon"><i class="p-play fa-solid fa-play"></i></span>
+                    </div>
+                    <div class="g-daital">
+                        <h3>songs</h3>
+                        <p>this is dummy paragram</p>
+                        // <div id="c-left" ><i class="fas fa-angle-left"></i></div>
+                        // <div id="c-right" ><i class="fas fa-angle-right"></i></div>  
+                    </div>
+                </div>
+            </div>
+        </div> -->
+    </div>
+    <div class="newSec hiddin">
+        <div class="n-l-sec">
+            <div class="nl-box">
+                <div class="nl-img">
+                    <img src="images/1.jpg" alt="">
+                </div>
+                <h2 class="nl-songsName">songs</h2>
+                <p class="nl-para">this is dummy </p>
+                <div class="nl-playsong">
+                    <div class="nl-upperPlay">
+                        <span id="h-c-time">00:00</span>
+                        <input id="nl-range" value="0" type="range" min="0" max="100">
+                        <span id="h-e-time">00:00</span>
+                    </div>
+                    <div class="nl-lo-play">
+                        <i class="c-p fa-sharp fa-solid fa-repeat"></i>
+                        <i id="ls-backward" class="c-p fa-solid fa-backward-step"></i>
+                        <div id="ls-play" class="c-p pm-play">
+                            <i id="l-play" class="c-p fa-solid fa-play"></i>
+                        </div>
+                        <i id="ls-forward" class="c-p fa-solid fa-forward-step"></i>
+                        <i class="c-p fa-solid fa-shuffle"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="n-r-sec">
+            <div class="nr-upper">
+                <h3>Queue</h3>
+                <i id="hideArrow" style="color: red; cursor: pointer;" class="fa-sharp fa-solid fa-angle-down"></i>
+            </div>
+            <hr class="hra">
+            <div class="nr-lower">
+                <!-- <div class="nr-items">
+                    <div class="nr-oneitem">
+                        <div class="left-item">
+                            <div class="item-img">
+                                <img src="images/2.jpg" alt="">
+                            </div>
+                            <div class="nr-fontBox">
+                                <h2 class="left-songsName">songs</h2>
+                                <p>this is dummy</p>
+                            </div>
+                        </div>
+                        <span>04:25</span>
+                    </div>
+                    <hr class="hra">
+                </div> -->
+            </div>
+        </div>
+    </div>
+    <div class="futter hiddin">
+        <div class="f-c">
+            <p>Copyright &copy; 2023 All rights reserved | This clone is made by Ashu baba.</p>
+        </div>
+    </div>
+    <div id="p-phutter" class="p-bar hiddin">
+        <input id="p-range" value="0" type="range" min="0" max="100">
+        <audio src="" id="audio_player" style="display: none;" controls="controls" loop="loop" preload="auto"></audio>
+        <div class="pl-bar">
+            <div class="pl-left">
+                <div id="pl-im" class="pl-img">
+                </div>
+                <div class="pl-d">
+                    <h3 id="pl-h" class="c-p"></h3>
+                    <p id="pl-p" class="c-p"></p>
+                </div>
+            </div>
+            <div class="pl-right">
+                <i class="sm-hide c-p fa-regular fa-heart"></i>
+                <i class="sm-hide c-p fa-solid fa-ellipsis-vertical"></i>
+            </div>
+        </div>
+        <div class="pm-bar">
+            <div class="sm-hide c-p pm-time">
+                <span id="l-time">00:00</span>
+                <span>/</span>
+                <span id="d-time">00:00</span>
+            </div>
+            <i class="sm-hide c-p fa-sharp fa-solid fa-repeat"></i>
+            <i id="backward" class="c-p fa-solid fa-backward-step"></i>
+            <div id="ms-play" class="c-p pm-play">
+                <i id="m-play" class="c-p fa-solid fa-play"></i>
+            </div>
+            <i id="forward" class="c-p fa-solid fa-forward-step"></i>
+            <i class="sm-hide c-p fa-solid fa-shuffle"></i>
+        </div>
+        <div class="pr-bar">
+            <i class="sm-hide c-p fa-solid fa-volume-high"></i>
+            <div class="sm-hide c-p pr-q">
+                Audio:High
+            </div>
+            <i id="upArrow" class="c-p fa-solid fa-chevron-up"></i>
+        </div>
+    </div>
+</body>
+<script src="./js/index.js"></script>
+
+</html>
