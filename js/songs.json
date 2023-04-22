@@ -12,7 +12,7 @@
           "singer_name": "Pathan",
           "image_source": "images/pathan rang.jpg",
           "quality": {
-            "low": "/songs/Besharam_Rang_Song__Pathaan.mp3",
+            "low": "./songs/Besharam_Rang_Song__Pathaan.mp3",
             "midium": "",
             "high": ""
           },
