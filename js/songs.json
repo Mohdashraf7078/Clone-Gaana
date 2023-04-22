@@ -26,7 +26,7 @@
           "singer_name": "Kisi Ka Bhai Kisi Ki Jaan",
           "image_source": "images/naiyo lagda.webp",
           "quality": {
-            "low": "/songs/Naiyo_Lagda.mp3",
+            "low": "./songs/Naiyo_Lagda.mp3",
             "midium": "",
             "high": ""
           },
@@ -40,7 +40,7 @@
           "singer_name": "Badshah",
           "image_source": "images/sanak.webp",
           "quality": {
-            "low": "/songs/00_AM_Sessions(256k).mp3",
+            "low": "./songs/00_AM_Sessions(256k).mp3",
             "midium": "",
             "high": ""
           },
@@ -54,7 +54,7 @@
           "singer_name": "Javed ali",
           "image_source": "images/Kuch Toh Zaroor Hai.webp",
           "quality": {
-            "low": "/songs/Kuch_Toh_Zaroor_Hai.mp3",
+            "low": "./songs/Kuch_Toh_Zaroor_Hai.mp3",
             "midium": "",
             "high": ""
           },
@@ -68,7 +68,7 @@
           "singer_name": "Darshan Raval",
           "image_source": "images/Piya Re.webp",
           "quality": {
-            "low": "/songs/Piya_Re.mp3",
+            "low": "./songs/Piya_Re.mp3",
             "midium": "",
             "high": ""
           },
@@ -82,7 +82,7 @@
           "singer_name": "Jasleen Royal",
           "image_source": "images/Ranjha.webp",
           "quality": {
-            "low": "/songs/Ranjha.mp3",
+            "low": "./songs/Ranjha.mp3",
             "midium": "",
             "high": ""
           },
@@ -96,7 +96,7 @@
           "singer_name": "Yaseen-desai",
           "image_source": "images/Daayein Baayein.webp",
           "quality": {
-            "low": "/songs/Daayein_Baayein.mp3",
+            "low": "./songs/Daayein_Baayein.mp3",
             "midium": "",
             "high": ""
           },
@@ -110,7 +110,7 @@
           "singer_name": "Laqshay kapoor, Shreya Ghoshal",
           "image_source": "images/Sohnneyaa.webp",
           "quality": {
-            "low": "/songs/Sohnneyaa.mp3",
+            "low": "./songs/Sohnneyaa.mp3",
             "midium": "",
             "high": ""
           },
@@ -124,7 +124,7 @@
           "singer_name": "Divine, Armani White - Gunehgar",
           "image_source": "images/Baazigar.webp",
           "quality": {
-            "low": "/songs/Baazigar.mp3",
+            "low": "./songs/Baazigar.mp3",
             "midium": "",
             "high": ""
           },
@@ -138,7 +138,7 @@
           "singer_name": "Vishal-Shekhar, Arijit Singh",
           "image_source": "images/Jhoome Jo Pathaan.webp",
           "quality": {
-            "low": "/songs/Jhoome_Jo_Pathaan.mp3",
+            "low": "./songs/Jhoome_Jo_Pathaan.mp3",
             "midium": "",
             "high": ""
           },
@@ -157,7 +157,7 @@
           "singer_name": "Asess Kaur, Stebin Ben - Tu Mile Dil Khile",
           "image_source": "images/Tu Mile Dil Khile.webp",
           "quality": {
-            "low": "/songs/Tu_Mile_Dil_Khile.mp3",
+            "low": "./songs/Tu_Mile_Dil_Khile.mp3",
             "midium": "",
             "high": ""
           },
@@ -171,7 +171,7 @@
           "singer_name": "Ae Dil Hai Mushkil",
           "image_source": "images/Channa Mereya.webp",
           "quality": {
-            "low": "/songs/Channa_Mereya.mp3",
+            "low": "./songs/Channa_Mereya.mp3",
             "midium": "",
             "high": ""
           },
@@ -185,7 +185,7 @@
           "singer_name": "Salim Merchant, Neeti Mohan, Vishal Shekhar",
           "image_source": "images/Ishq Wala Love.webp",
           "quality": {
-            "low": "/songs/Ishq_Wala_Love.mp3",
+            "low": "./songs/Ishq_Wala_Love.mp3",
             "midium": "",
             "high": ""
           },
@@ -199,7 +199,7 @@
           "singer_name": "Vishal Mishra - Woh Chaand Kahan Se Laogi",
           "image_source": "images/Woh Chaand Kahan Se Laogi.webp",
           "quality": {
-            "low": "/songs/Woh_Chaand_Kahan_Se.mp3",
+            "low": "./songs/Woh_Chaand_Kahan_Se.mp3",
             "midium": "",
             "high": ""
           },
@@ -213,7 +213,7 @@
           "singer_name": "Vishal Mishra - Tu Bhi Sataya Jayega",
           "image_source": "images/Tu Bhi Sataya Jayega.webp",
           "quality": {
-            "low": "/songs/Tu_Bhi_Sataya.mp3",
+            "low": "./songs/Tu_Bhi_Sataya.mp3",
             "midium": "",
             "high": ""
           },
@@ -227,7 +227,7 @@
           "singer_name": "Bhediya - Apna Bana",
           "image_source": "images/Apna Bana.webp",
           "quality": {
-            "low": "/songs/Apna_Bana.mp3",
+            "low": "./songs/Apna_Bana.mp3",
             "midium": "",
             "high": ""
           },
@@ -241,7 +241,7 @@
           "singer_name": "Pritam Chakraborty, Antara Mitra, Mohit",
           "image_source": "images/Bheegi Si Bhaagi Si.webp",
           "quality": {
-            "low": "/songs/Bheegi_Si_Bhaagi_Si.mp3",
+            "low": "./songs/Bheegi_Si_Bhaagi_Si.mp3",
             "midium": "",
             "high": ""
           },
@@ -255,7 +255,7 @@
           "singer_name": "Bhrahmastra - Kesariya",
           "image_source": "images/Kesariya.webp",
           "quality": {
-            "low": "/songs/Kesariya.mp3",
+            "low": "./songs/Kesariya.mp3",
             "midium": "",
             "high": ""
           },
@@ -269,7 +269,7 @@
           "singer_name": "Shershaah - Raataan Lambiyan",
           "image_source": "images/Raataan Lambiyan.webp",
           "quality": {
-            "low": "/songs/Raataan_Lambiyan.mp3",
+            "low": "./songs/Raataan_Lambiyan.mp3",
             "midium": "",
             "high": ""
           },
@@ -283,7 +283,7 @@
           "singer_name": "Pritam, Arijit Singh - Ae Dil Hai Mushkil",
           "image_source": "images/Ae Dil Hai Mushkil.webp",
           "quality": {
-            "low": "/songs/Ae_Dil_Hai_Mushkil.mp3",
+            "low": "./songs/Ae_Dil_Hai_Mushkil.mp3",
             "midium": "",
             "high": ""
           },
@@ -302,7 +302,7 @@
           "singer_name": "Jasleen Royal",
           "image_source": "images/Ranjha.webp",
           "quality": {
-            "low": "/songs/Ranjha.mp3",
+            "low": "./songs/Ranjha.mp3",
             "midium": "",
             "high": ""
           },
@@ -316,7 +316,7 @@
           "singer_name": "Yaseen-desai",
           "image_source": "images/Daayein Baayein.webp",
           "quality": {
-            "low": "/songs/Daayein_Baayein.mp3",
+            "low": "./songs/Daayein_Baayein.mp3",
             "midium": "",
             "high": ""
           },
@@ -330,7 +330,7 @@
           "singer_name": "Laqshay kapoor, Shreya Ghoshal",
           "image_source": "images/Sohnneyaa.webp",
           "quality": {
-            "low": "/songs/Sohnneyaa.mp3",
+            "low": "./songs/Sohnneyaa.mp3",
             "midium": "",
             "high": ""
           },
@@ -344,7 +344,7 @@
           "singer_name": "Divine, Armani White - Gunehgar",
           "image_source": "images/Baazigar.webp",
           "quality": {
-            "low": "/songs/Baazigar.mp3",
+            "low": "./songs/Baazigar.mp3",
             "midium": "",
             "high": ""
           },
@@ -358,7 +358,7 @@
           "singer_name": "Vishal-Shekhar, Arijit Singh",
           "image_source": "images/Jhoome Jo Pathaan.webp",
           "quality": {
-            "low": "/songs/Jhoome_Jo_Pathaan.mp3",
+            "low": "./songs/Jhoome_Jo_Pathaan.mp3",
             "midium": "",
             "high": ""
           },
@@ -372,7 +372,7 @@
           "singer_name": "Vishal Mishra - Tu Bhi Sataya Jayega",
           "image_source": "images/Tu Bhi Sataya Jayega.webp",
           "quality": {
-            "low": "/songs/Tu_Bhi_Sataya.mp3",
+            "low": "./songs/Tu_Bhi_Sataya.mp3",
             "midium": "",
             "high": ""
           },
@@ -386,7 +386,7 @@
           "singer_name": "Bhediya - Apna Bana",
           "image_source": "images/Apna Bana.webp",
           "quality": {
-            "low": "/songs/Apna_Bana.mp3",
+            "low": "./songs/Apna_Bana.mp3",
             "midium": "",
             "high": ""
           },
@@ -400,7 +400,7 @@
           "singer_name": "Bhrahmastra - Kesariya",
           "image_source": "images/Kesariya.webp",
           "quality": {
-            "low": "/songs/Kesariya.mp3",
+            "low": "./songs/Kesariya.mp3",
             "midium": "",
             "high": ""
           },
@@ -414,7 +414,7 @@
           "singer_name": "Shershaah - Raataan Lambiyan",
           "image_source": "images/Raataan Lambiyan.webp",
           "quality": {
-            "low": "/songs/Raataan_Lambiyan.mp3",
+            "low": "./songs/Raataan_Lambiyan.mp3",
             "midium": "",
             "high": ""
           },
@@ -428,7 +428,7 @@
           "singer_name": "Pritam, Arijit Singh - Ae Dil Hai Mushkil",
           "image_source": "images/Ae Dil Hai Mushkil.webp",
           "quality": {
-            "low": "/songs/Ae_Dil_Hai_Mushkil.mp3",
+            "low": "./songs/Ae_Dil_Hai_Mushkil.mp3",
             "midium": "",
             "high": ""
           },
@@ -447,7 +447,7 @@
           "singer_name": "Asess Kaur, Stebin Ben - Tu Mile Dil Khile",
           "image_source": "images/Tu Mile Dil Khile.webp",
           "quality": {
-            "low": "/songs/Tu_Mile_Dil_Khile.mp3",
+            "low": "./songs/Tu_Mile_Dil_Khile.mp3",
             "midium": "",
             "high": ""
           },
@@ -461,7 +461,7 @@
           "singer_name": "Ae Dil Hai Mushkil",
           "image_source": "images/Channa Mereya.webp",
           "quality": {
-            "low": "/songs/Channa_Mereya.mp3",
+            "low": "./songs/Channa_Mereya.mp3",
             "midium": "",
             "high": ""
           },
@@ -475,7 +475,7 @@
           "singer_name": "Pritam Chakraborty, Antara Mitra, Mohit",
           "image_source": "images/Bheegi Si Bhaagi Si.webp",
           "quality": {
-            "low": "/songs/Bheegi_Si_Bhaagi_Si.mp3",
+            "low": "./songs/Bheegi_Si_Bhaagi_Si.mp3",
             "midium": "",
             "high": ""
           },
@@ -489,7 +489,7 @@
           "singer_name": "Salim Merchant, Neeti Mohan, Vishal Shekhar",
           "image_source": "images/Ishq Wala Love.webp",
           "quality": {
-            "low": "/songs/Ishq_Wala_Love.mp3",
+            "low": "./songs/Ishq_Wala_Love.mp3",
             "midium": "",
             "high": ""
           },
@@ -503,7 +503,7 @@
           "singer_name": "Vishal Mishra - Woh Chaand Kahan Se Laogi",
           "image_source": "images/Woh Chaand Kahan Se Laogi.webp",
           "quality": {
-            "low": "/songs/Woh_Chaand_Kahan_Se.mp3",
+            "low": "./songs/Woh_Chaand_Kahan_Se.mp3",
             "midium": "",
             "high": ""
           },
@@ -517,7 +517,7 @@
           "singer_name": "Pathan",
           "image_source": "images/pathan rang.jpg",
           "quality": {
-            "low": "/songs/Besharam_Rang_Song__Pathaan.mp3",
+            "low": "./songs/Besharam_Rang_Song__Pathaan.mp3",
             "midium": "",
             "high": ""
           },
@@ -531,7 +531,7 @@
           "singer_name": "Kisi Ka Bhai Kisi Ki Jaan",
           "image_source": "images/naiyo lagda.webp",
           "quality": {
-            "low": "/songs/Naiyo_Lagda.mp3",
+            "low": "./songs/Naiyo_Lagda.mp3",
             "midium": "",
             "high": ""
           },
@@ -545,7 +545,7 @@
           "singer_name": "Badshah",
           "image_source": "images/sanak.webp",
           "quality": {
-            "low": "/songs/00_AM_Sessions(256k).mp3",
+            "low": "./songs/00_AM_Sessions(256k).mp3",
             "midium": "",
             "high": ""
           },
@@ -559,7 +559,7 @@
           "singer_name": "Javed ali",
           "image_source": "images/Kuch Toh Zaroor Hai.webp",
           "quality": {
-            "low": "/songs/Kuch_Toh_Zaroor_Hai.mp3",
+            "low": "./songs/Kuch_Toh_Zaroor_Hai.mp3",
             "midium": "",
             "high": ""
           },
@@ -573,7 +573,7 @@
           "singer_name": "Darshan Raval",
           "image_source": "images/Piya Re.webp",
           "quality": {
-            "low": "/songs/Piya_Re.mp3",
+            "low": "./songs/Piya_Re.mp3",
             "midium": "",
             "high": ""
           },
@@ -592,7 +592,7 @@
           "singer_name": "Yaseen-desai",
           "image_source": "images/Daayein Baayein.webp",
           "quality": {
-            "low": "/songs/Daayein_Baayein.mp3",
+            "low": "./songs/Daayein_Baayein.mp3",
             "midium": "",
             "high": ""
           },
@@ -606,7 +606,7 @@
           "singer_name": "Laqshay kapoor, Shreya Ghoshal",
           "image_source": "images/Sohnneyaa.webp",
           "quality": {
-            "low": "/songs/Sohnneyaa.mp3",
+            "low": "./songs/Sohnneyaa.mp3",
             "midium": "",
             "high": ""
           },
@@ -620,7 +620,7 @@
           "singer_name": "Divine, Armani White - Gunehgar",
           "image_source": "images/Baazigar.webp",
           "quality": {
-            "low": "/songs/Baazigar.mp3",
+            "low": "./songs/Baazigar.mp3",
             "midium": "",
             "high": ""
           },
@@ -634,7 +634,7 @@
           "singer_name": "Vishal-Shekhar, Arijit Singh",
           "image_source": "images/Jhoome Jo Pathaan.webp",
           "quality": {
-            "low": "/songs/Jhoome_Jo_Pathaan.mp3",
+            "low": "./songs/Jhoome_Jo_Pathaan.mp3",
             "midium": "",
             "high": ""
           },
@@ -648,7 +648,7 @@
           "singer_name": "Pathan",
           "image_source": "images/pathan rang.jpg",
           "quality": {
-            "low": "/songs/Besharam_Rang_Song__Pathaan.mp3",
+            "low": "./songs/Besharam_Rang_Song__Pathaan.mp3",
             "midium": "",
             "high": ""
           },
@@ -662,7 +662,7 @@
           "singer_name": "Kisi Ka Bhai Kisi Ki Jaan",
           "image_source": "images/naiyo lagda.webp",
           "quality": {
-            "low": "/songs/Naiyo_Lagda.mp3",
+            "low": "./songs/Naiyo_Lagda.mp3",
             "midium": "",
             "high": ""
           },
@@ -676,7 +676,7 @@
           "singer_name": "Badshah",
           "image_source": "images/sanak.webp",
           "quality": {
-            "low": "/songs/00_AM_Sessions(256k).mp3",
+            "low": "./songs/00_AM_Sessions(256k).mp3",
             "midium": "",
             "high": ""
           },
@@ -690,7 +690,7 @@
           "singer_name": "Javed ali",
           "image_source": "images/Kuch Toh Zaroor Hai.webp",
           "quality": {
-            "low": "/songs/Kuch_Toh_Zaroor_Hai.mp3",
+            "low": "./songs/Kuch_Toh_Zaroor_Hai.mp3",
             "midium": "",
             "high": ""
           },
@@ -704,7 +704,7 @@
           "singer_name": "Darshan Raval",
           "image_source": "images/Piya Re.webp",
           "quality": {
-            "low": "/songs/Piya_Re.mp3",
+            "low": "./songs/Piya_Re.mp3",
             "midium": "",
             "high": ""
           },
@@ -718,7 +718,7 @@
           "singer_name": "Jasleen Royal",
           "image_source": "images/Ranjha.webp",
           "quality": {
-            "low": "/songs/Ranjha.mp3",
+            "low": "./songs/Ranjha.mp3",
             "midium": "",
             "high": ""
           },
@@ -737,7 +737,7 @@
           "singer_name": "Asess Kaur, Stebin Ben - Tu Mile Dil Khile",
           "image_source": "images/Tu Mile Dil Khile.webp",
           "quality": {
-            "low": "/songs/Tu_Mile_Dil_Khile.mp3",
+            "low": "./songs/Tu_Mile_Dil_Khile.mp3",
             "midium": "",
             "high": ""
           },
@@ -751,7 +751,7 @@
           "singer_name": "Ae Dil Hai Mushkil",
           "image_source": "images/Channa Mereya.webp",
           "quality": {
-            "low": "/songs/Channa_Mereya.mp3",
+            "low": "./songs/Channa_Mereya.mp3",
             "midium": "",
             "high": ""
           },
@@ -765,7 +765,7 @@
           "singer_name": "Pritam Chakraborty, Antara Mitra, Mohit",
           "image_source": "images/Bheegi Si Bhaagi Si.webp",
           "quality": {
-            "low": "/songs/Bheegi_Si_Bhaagi_Si.mp3",
+            "low": "./songs/Bheegi_Si_Bhaagi_Si.mp3",
             "midium": "",
             "high": ""
           },
@@ -779,7 +779,7 @@
           "singer_name": "Salim Merchant, Neeti Mohan, Vishal Shekhar",
           "image_source": "images/Ishq Wala Love.webp",
           "quality": {
-            "low": "/songs/Ishq_Wala_Love.mp3",
+            "low": "./songs/Ishq_Wala_Love.mp3",
             "midium": "",
             "high": ""
           },
@@ -793,7 +793,7 @@
           "singer_name": "Vishal Mishra - Woh Chaand Kahan Se Laogi",
           "image_source": "images/Woh Chaand Kahan Se Laogi.webp",
           "quality": {
-            "low": "/songs/Woh_Chaand_Kahan_Se.mp3",
+            "low": "./songs/Woh_Chaand_Kahan_Se.mp3",
             "midium": "",
             "high": ""
           },
@@ -807,7 +807,7 @@
           "singer_name": "Vishal Mishra - Tu Bhi Sataya Jayega",
           "image_source": "images/Tu Bhi Sataya Jayega.webp",
           "quality": {
-            "low": "/songs/Tu_Bhi_Sataya.mp3",
+            "low": "./songs/Tu_Bhi_Sataya.mp3",
             "midium": "",
             "high": ""
           },
@@ -821,7 +821,7 @@
           "singer_name": "Badshah",
           "image_source": "images/sanak.webp",
           "quality": {
-            "low": "/songs/00_AM_Sessions(256k).mp3",
+            "low": "./songs/00_AM_Sessions(256k).mp3",
             "midium": "",
             "high": ""
           },
@@ -835,7 +835,7 @@
           "singer_name": "Javed ali",
           "image_source": "images/Kuch Toh Zaroor Hai.webp",
           "quality": {
-            "low": "/songs/Kuch_Toh_Zaroor_Hai.mp3",
+            "low": "./songs/Kuch_Toh_Zaroor_Hai.mp3",
             "midium": "",
             "high": ""
           },
@@ -849,7 +849,7 @@
           "singer_name": "Darshan Raval",
           "image_source": "images/Piya Re.webp",
           "quality": {
-            "low": "/songs/Piya_Re.mp3",
+            "low": "./songs/Piya_Re.mp3",
             "midium": "",
             "high": ""
           },
@@ -863,7 +863,7 @@
           "singer_name": "Jasleen Royal",
           "image_source": "images/Ranjha.webp",
           "quality": {
-            "low": "/songs/Ranjha.mp3",
+            "low": "./songs/Ranjha.mp3",
             "midium": "",
             "high": ""
           },
